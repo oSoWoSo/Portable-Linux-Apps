@@ -7,7 +7,7 @@ avatar: favicon.ico
 
 google_analytics: 
 piwik_analytics:
-url: https://portable-linux-apps.github.io/
+url: https://osowoso.github.io/portable-linux-apps/
 
 exclude:
   - node_modules
@@ -16,7 +16,7 @@ exclude:
 sass:
   style: :compressed
 
-theme: jekyll-theme-primer
+theme: jekyll-theme-minima
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
@@ -26,4 +26,4 @@ plugins:
 markdown: GFM
 github:
   private: false
-  repository_url: "https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io"
+  repository_url: "https://github.com/oSoWoSo/Portable-Linux-Apps"
